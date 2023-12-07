@@ -26,9 +26,8 @@ title: Parking Time Saver
 
 
 theme: jekyll-lin #여기바꾸면됨
-
-plugins: 
-  - jekyll-feed
+  plugins: 
+    - jekyll-feed
 
 
 # Exclude from processing.

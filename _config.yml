@@ -24,9 +24,10 @@ title: Parking Time Saver
 
 # Build settings
 
-theme: jekyll-theme-clean-blog #jekyll-lin #여기바꾸면됨
-  plugins: 
-   - jekyll-feed
+theme: jekyll-lin #여기바꾸면됨
+
+plugins: 
+  - jekyll-feed
 
 
 # Exclude from processing.

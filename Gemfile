@@ -7,8 +7,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll-theme-clean-blog"
+
+gem "jekyll-lin"
 #gem "jekyll", "~> 4.3.2"
+
 # This is the ing you default theme for new Jekyll sites. You may change this to anythlike.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

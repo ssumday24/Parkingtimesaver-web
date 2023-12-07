@@ -1,0 +1,22 @@
+# main links
+main:
+  main:
+  - title: "About"
+    url: /2023-12-07-about/
+  - title: "Features"
+    url: /2023-12-07-features/
+  - title: "Community"
+    url: /2023-12-07-cummunity/
+  - title: "Support"
+    url: /2023-12-07-supprt/
+  - title: "Category"
+    url: /2023-12-07-category/
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

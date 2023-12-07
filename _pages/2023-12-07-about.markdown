@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: ABOUT
 permalink: /2023-12-07-about/
 ---

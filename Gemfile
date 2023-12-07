@@ -7,12 +7,10 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-
-gem "jekyll", "~> 4.3.2"
+gem "jekyll-theme-clean-blog"
+#gem "jekyll", "~> 4.3.2"
 # This is the ing you default theme for new Jekyll sites. You may change this to anythlike.
-
 gem "minima", "~> 2.5"
-
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -29,7 +27,6 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "jekyll-lin"
-
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 

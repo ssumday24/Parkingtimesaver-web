@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How to Use
 permalink: /How to Use/
 ---

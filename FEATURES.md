@@ -4,9 +4,34 @@ title: FEATURES
 permalink: /FEATURES/
 ---
 
-# **Unique Features**
+#  **Key Features of Parkingtime Saver**
 
- - Our system is uniquely tailored for large parking areas like those at department stores and marts, where finding a parking spot can be a time-consuming ordeal.
- - We address the common frustration of waiting in long queues to pay for parking.
- - Parktimesaver’s online reservation and payment system not only saves time but also adds convenience to your parking experience.
+1. **Real-time Parking Information:**
+   - Provides real-time updates on parking availability and pricing, recommending the optimal parking spots for users.
 
+2. **Parking Reservation and Payment:**
+   - Allows users to pre-book parking spaces and conveniently pay for parking fees through a mobile app.
+
+3. **Parking Notification Service:**
+   - Sends notifications to users at their set time for parking expiration, aiding effective time management.
+
+4. **Nearby Points of Interest:**
+   - Offers useful information about restaurants, shops, tourist attractions, and more in the vicinity, facilitating post-parking activities.
+
+5. **Parking History Management:**
+   - Records users' parking history, enabling easy access to and management of past parking information.
+
+6. **User Reviews and Ratings:**
+   - Implements a review and rating system where users can share their parking experiences, providing reliable information.
+
+7. **Multi-city Support:**
+   - Integrates parking information from various cities, ensuring consistent service for users traveling between different locations.
+
+8. **Real-time Traffic Information:**
+   - Updates users with real-time traffic conditions, helping them navigate efficiently to the parking location.
+
+9. **Security and Safety Features:**
+   - Strengthens security and safety measures related to parking lot access, ensuring the well-being of users and their vehicles.
+
+10. **Cross-platform Compatibility:**
+    - Supports access from various platforms, including web, iOS, Android, providing flexibility and convenience for users.

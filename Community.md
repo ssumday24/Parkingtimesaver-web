@@ -23,7 +23,7 @@ Since 2023, ParkingtimeSaver  has ignited a passionate and dynamic group of user
 Check out the discussions from [HERE](https://github.com/ssumday24/Parkingtimesaver-web/discussions).
 
 
-# Bug reports 
+# **Bug reports** 
 To report a bug in Parkingtime Saver, create a ISSUE at [Github Issue](https://github.com/ssumday24/Parkingtimesaver-web/issues).
 
 

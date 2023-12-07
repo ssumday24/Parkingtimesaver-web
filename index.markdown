@@ -5,3 +5,5 @@
 layout: home
 
 ---
+
+<img src="./image.jpeg", height="100x", width="100px">

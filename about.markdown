@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /About/
+title: about
+permalink: /about/
 ---
 
 # Parktimesaver Project Overview

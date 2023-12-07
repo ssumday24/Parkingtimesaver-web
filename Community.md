@@ -24,6 +24,6 @@ Check out the discussions from [HERE](https://github.com/ssumday24/Parkingtimesa
 
 
 # Bug reports 
-To report a bug in Redis, create a ISSUE at [Github Issue](https://github.com/ssumday24/Parkingtimesaver-web/issues).
+To report a bug in Parkingtime Saver, create a ISSUE at [Github Issue](https://github.com/ssumday24/Parkingtimesaver-web/issues).
 
 

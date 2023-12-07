@@ -1,16 +1,16 @@
 # main links
 main:
   main:
-  - title: "About"
-    url: /2023-12-07-about/
-  - title: "Features"
-    url: /2023-12-07-features/
-  - title: "Community"
-    url: /2023-12-07-cummunity/
-  - title: "Support"
-    url: /2023-12-07-supprt/
-  - title: "Category"
-    url: /2023-12-07-category/
+  - title: "ABOUT"
+    url: /ABOUT/
+  - title: "FEATURES"
+    url: /FEATURES/
+  - title: "COMMUNITY"
+    url: /COMMUNITY/
+  - title: "SUPPORT"
+    url: /SUPPORT/
+  - title: "CATEGORY"
+    url: /CATEGORY/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

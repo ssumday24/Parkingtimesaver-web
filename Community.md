@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Community
-permalink: /Community/
+title: COMMUNITY
+permalink: /COMMUNITY/
 ---
 
 # **Community**

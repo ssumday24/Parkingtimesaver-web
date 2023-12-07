@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima #여기바꾸면됨
+theme: bay_jekyll_theme #여기바꾸면됨
 plugins: 
   - jekyll-feed
 

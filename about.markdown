@@ -10,7 +10,7 @@ permalink: /ABOUT/
 
  
 
- **How It Works**
+ # **How It Works**
 
  By introducing a system where you can reserve a parking space at a specific time and pay online within a few hours of using the parking lot, Parktimesaver aims to drastically reduce the time and stress associated with parking.
 

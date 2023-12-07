@@ -7,4 +7,4 @@ layout: home
 ---
 
 
-![poster](./image.jpeg)
+![poster](./image.jpeg){: width="100" height="100"}

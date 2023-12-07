@@ -6,16 +6,18 @@ layout: home
 
 ---
 
-## Installation
+# Parktimesaver Project Overview
 
-### System Requirements
- To use Parktimesaver, you will need a smartphone or a computer with internet access. Our platform is compatible with most modern browsers and operating systems.
+Parktimesaver is an innovative solution designed to address the growing challenge of finding available parking spaces in increasingly crowded urban environments. As parking lots multiply rapidly, the struggle to locate an open spot becomes more pronounced. Our mission at Parktimesaver is to streamline this process, making parking more accessible and less time-consuming.
 
-### Downloading the App
- If you’re using a smartphone, download the Parktimesaver app from the App Store or Google Play Store. For desktop users, you can access our services directly through our website.
+## Unique Features
 
-### Creating an Account
- Upon installing the app or accessing our website, you’ll be prompted to create an account. This involves providing some basic information and setting up a secure password.
+- Our system is uniquely tailored for large parking areas like those at department stores and marts, where finding a parking spot can be a time-consuming ordeal.
+- We address the common frustration of waiting in long queues to pay for parking.
+- Parktimesaver’s online reservation and payment system not only saves time but also adds convenience to your parking experience.
 
-### Setting Up Payment Methods
- After creating your account, you can add your preferred payment methods. We support various options, including credit/debit cards and digital wallets, ensuring a seamless payment process.
+## How It Works
+
+By introducing a system where you can reserve a parking space at a specific time and pay online within a few hours of using the parking lot, Parktimesaver aims to drastically reduce the time and stress associated with parking.
+
+Parktimesaver is committed to improving the urban parking experience and making it more efficient for everyone.

@@ -90,14 +90,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  
   links:
-    - label: "Your Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://your-site.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"

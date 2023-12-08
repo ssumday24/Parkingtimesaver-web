@@ -8,8 +8,7 @@ main:
     url: /COMMUNITY/
   - title: "SUPPORT"
     url: /SUPPORT/
-  - title: "CATEGORY"
-    url: /CATEGORY/
+
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

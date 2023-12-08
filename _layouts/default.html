@@ -14,14 +14,6 @@
     {% include head/custom.html %}
   </head>
 
-  <nav>
-    <ul>
-      {% for item in site.data.navigation.main %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endfor %}
-    </ul>
-  </nav>
-  
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
